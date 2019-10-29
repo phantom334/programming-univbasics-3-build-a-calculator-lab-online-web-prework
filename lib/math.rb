@@ -19,5 +19,5 @@ num1.modulo(num2)
 end
 
 def square_root(num)
-num ^^
+sqrt(num)
 end
